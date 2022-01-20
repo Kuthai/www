@@ -1,0 +1,545 @@
+<?xml version="1.0" ?>
+
+<list>
+
+<!--Player phrases-->
+
+<text>
+	<id>1</id>
+	<name>ฉันไม่เลือดออกแล้ว.</name>
+</text>
+
+<text>
+	<id>2</id>
+	<name>ฉันรู้สึกดีแล้ว.</name>
+</text>
+
+<text>
+	<id>3</id>
+	<name>รู้สึกเลือดจะไหล.</name>
+</text>
+
+<text>
+	<id>4</id>
+	<name>ฉันหนาว.</name>
+</text>
+
+<text>
+	<id>5</id>
+	<name>ฉันกำลังจะตายเพราะขาดน้ำหิว.</name>
+</text>
+
+<text>
+	<id>6</id>
+	<name>ฉันกำลังจะตายเพราะขาดน้ำ.</name>
+</text>
+
+<text>
+	<id>7</id>
+	<name>ฉันพบบางอย่างในรถคันนี้.</name>
+</text>
+
+<text>
+	<id>8</id>
+	<name>ไม่มีอะไรในรถคันนี้.</name>
+</text>
+
+<!--Player phrase: when no ammo for reloading-->
+<text>
+	<id>9</id>
+	<name>ไม่มีกระสุนแล้ว.</name>
+</text>
+<!--Player phrase: when ranged weapon is empited-->
+<text>
+	<id>10</id>
+	<name>แม็กว่างเปล่า.</name>
+</text>
+
+<text>
+	<id>11</id>
+	<name>อาวุธพัง!</name>
+</text>
+
+<text>
+	<id>12</id>
+	<name>ไม่มีน้ำในปั๊มนี้.</name>
+</text>
+
+<text>
+	<id>13</id>
+	<name>ฉันไม่อยากดื่ม.</name>
+</text>
+
+<text>
+	<id>14</id>
+	<name>ฉันกินสเต็กดิบ.</name>
+</text>
+
+<text>
+	<id>15</id>
+	<name>ฉันต้องการปั๊มน้ำเพื่อใช้มัน.</name>
+</text>
+
+<text>
+	<id>16</id>
+	<name>เติมปั้มน้ำแล้ว.</name>
+</text>
+
+<text>
+	<id>17</id>
+	<name>ฉันกิน  </name>
+</text>
+
+<text>
+	<id>18</id>
+	<name>ฉันดื่ม  </name>
+</text>
+
+<text>
+	<id>19</id>
+	<name>ฉันใช้ </name>
+</text>
+
+<text>
+	<id>32</id>
+	<name>อาวุธครบ.</name>
+</text>
+
+<text>
+	<id>33</id>
+	<name>โหลดกระสุนแล้ว.</name>
+</text>
+
+<!--Player phrase: when trying to load wrong ammo-->
+<text>
+	<id>34</id>
+	<name>มันไม่เข้าท่า.</name>
+</text>
+
+<text>
+	<id>35</id>
+	<name>ฉันใช้ผ้าพันแผล.</name>
+</text>
+
+<text>
+	<id>36</id>
+	<name>ฉันไม่ได้เลือดออก.</name>
+</text>
+
+<text>
+	<id>37</id>
+	<name>ถ่ายเลือดเสร็จแล้ว.</name>
+</text>
+
+<!--Player phrase: when trying to load battery to nvg/headlamp-->
+<text>
+	<id>38</id>
+	<name>บรรจุ เรียบร้อยแล้ว.</name>
+</text>
+
+<text>
+	<id>39</id>
+	<name>ฉันต้องการไฟหน้าหรือ NVG.</name>
+</text>
+
+<text>
+	<id>40</id>
+	<name>ฉันต้องการไฟบนพื้นเพื่อจุดไฟ.</name>
+</text>
+
+<text>
+	<id>41</id>
+	<name>ฉัน ดื่ม วิสกี้ แล้ว.</name>
+</text>
+
+<text>
+	<id>42</id>
+	<name>ถ่าย น้ำเกลือ เสร็จ แล้ว.</name>
+</text>
+
+<text>
+	<id>43</id>
+	<name>ฉันกินวิตามิน.</name>
+</text>
+
+<text>
+	<id>44</id>
+	<name>อาวุธพัง.</name>
+</text>
+
+<text>
+	<id>45</id>
+	<name>ทําคเาวสะอาดอาวุธ.</name>
+</text>
+
+<text>
+	<id>46</id>
+	<name>ฉันเคยกินเตตราไซคลิน.</name>
+</text>
+
+<text>
+	<id>47</id>
+	<name>รถเติมน้ำมัน.</name>
+</text>
+
+<text>
+	<id>48</id>
+	<name>ฉันต้องการรถที่ขับได้เพื่อสิ่งนั้น.</name>
+</text>
+
+<text>
+	<id>49</id>
+	<name>ขวดเปล่า.</name>
+</text>
+
+<text>
+	<id>50</id>
+	<name>ฉันดื่มจากขวดน้ำ.</name>
+</text>
+
+<text>
+	<id>51</id>
+	<name>กระติกนํ้าว่างเปล่า.</name>
+</text>
+
+<text>
+	<id>52</id>
+	<name>ฉันดื่มมาจากกระติก.</name>
+</text>
+
+<text>
+	<id>53</id>
+	<name>วางทุ่นระเบิดแล้ว.</name>
+</text>
+
+<text>
+	<id>54</id>
+	<name>วางกับดักหมีแล้ว.</name>
+</text>
+
+<text>
+	<id>55</id>
+	<name>ซ่อมรถแล้ว.</name>
+</text>
+
+<text>
+	<id>56</id>
+	<name>ฉันทำสเต็กแล้ว.</name>
+</text>
+
+<text>
+	<id>57</id>
+	<name>ฉันต้องการเตาผิงสำหรับสิ่งนั้น.</name>
+</text>
+
+<text>
+	<id>58</id>
+	<name>ฉันกินสเต็กสุกแล้ว.</name>
+</text>
+
+<text>
+	<id>59</id>
+	<name>ฉันดื่มนูก้าโคล่า รู้สึกดีมาก!</name>
+</text>
+
+<text>
+	<id>60</id>
+	<name>ถลกหนัง.</name>
+</text>
+
+<text>
+	<id>61</id>
+	<name>ไม่มีอะไรจะฟาด.</name>
+</text>
+
+<text>
+	<id>62</id>
+	<name>ไม่มีช่องว่าง.</name>
+</text>
+
+<text>
+	<id>63</id>
+	<name>มีดพัง.</name>
+</text>
+
+<text>
+	<id>64</id>
+	<name>ฉันต้องการแท่งไม้มากกว่านี้.</name>
+</text>
+
+<text>
+	<id>65</id>
+	<name>ไฟหน้าพัง.</name>
+</text>
+
+<text>
+	<id>66</id>
+	<name>เอ็นวีจี พัง.</name>
+</text>
+
+<text>
+	<id>67</id>
+	<name>ฉันดื่มควาส.</name>
+</text>
+
+<text>
+	<id>68</id>
+	<name>ต้องใช้พลั่ว โกยหรือจอบ.</name>
+</text>
+
+<text>
+	<id>69</id>
+	<name>ปลูกที่นี่ไม่ได้.</name>
+</text>
+
+<text>
+	<id>70</id>
+	<name>ปลูก.</name>
+</text>
+
+<text>
+	<id>71</id>
+	<name>บล็อก</name>
+</text>
+
+<text>
+	<id>72</id>
+	<name>ต้องใช้มีดถลกหนังเหยื่อ.</name>
+</text>
+
+<!-- When trying to switch to firearm and you dont have any  -->
+<text>
+	<id>73</id>
+	<name>ฉันไม่มีอาวุธระยะประชิด.</name>
+</text>
+
+<text>
+	<id>74</id>
+	<name>แตะที่จุดที่จะจุดพลุ.</name>
+</text>
+
+<text>
+	<id>75</id>
+	<name>แตะตำแหน่งที่จะขว้างระเบิด.</name>
+</text>
+
+<text>
+	<id>76</id>
+	<name>เต็มแล้ว.</name>
+</text>
+
+<text>
+	<id>77</id>
+	<name>ดื่มน้ำมาจากปั้มน้ำ.</name>
+</text>
+
+<text>
+	<id>78</id>
+	<name>ฉันต้องกินอะไรซักอย่าง.</name>
+</text>
+
+<text>
+	<id>79</id>
+	<name>ฉันต้องดื่มอะไรซักอย่าง.</name>
+</text>
+
+<text>
+	<id>80</id>
+	<name>หนาวมาก.</name>
+</text>
+
+<text>
+	<id>81</id>
+	<name>ฉันเริ่มหวาวน้อยลงแล้ว.</name>
+</text>
+
+<text>
+	<id>82</id>
+	<name>ฉันอุ่นขึ้น.</name>
+</text>
+
+<text>
+	<id>83</id>
+	<name>ฉันต้องการชาร์จแบตเตอรี่เพิ่ม.</name>
+</text>
+
+<text>
+	<id>84</id>
+	<name>ดูเหมือนไม่มีเหตูการในบริเวณใกล้เคียง.</name>
+</text>
+
+<text>
+	<id>85</id>
+	<name>ดูเหมือนที่เกิดเหตุอยู่ใกล้ ๆ.</name>
+</text>
+
+<!-- Friend bots phrase: on health lower than 50%  -->
+<text>
+	<id>100</id>
+	<name>ให้ตายสิ ฉันบาดเจ็บสาหัส.</name>
+</text>
+
+<!-- Friend bots phrases: when player get into house, bot starts patroling entrance  -->
+<text>
+	<id>101</id>
+	<name>โอเค ฉันอยู่ตามเวลา.</name>
+</text>
+
+<text>
+	<id>102</id>
+	<name>ฉันจะคุ้มกันในขณะที่คุณปล้น.</name>
+</text>
+
+<!-- Friend bots phrase: when player gets on firing line -->
+<text>
+	<id>103</id>
+	<name>คุณกำลังปิดกั้นเป้าหมาย!</name>
+</text>
+
+<!-- Friend bots phrase: on health lower than 50%  -->
+<text>
+	<id>104</id>
+	<name>เฮ้! มารวมทีมกัน!</name>
+</text>
+
+<!-- Enemy Melee bot phrases on getting hit from firearm-->
+<text>
+	<id>105</id>
+	<name>ไม่แฟร์!</name>
+</text>
+
+<text>
+	<id>106</id>
+	<name>แม่ง มัน มีปืน!</name>
+</text>
+
+<text>
+	<id>107</id>
+	<name>เชื้ย!</name>
+</text>
+
+<!-- Enemy Bot with firearm when spots player -->
+<text>
+	<id>108</id>
+	<name>แน่ จริงก็ ออก มาดิ!</name>
+</text>
+
+<text>
+	<id>109</id>
+	<name>แดกนี่สะ!</name>
+</text>
+
+<text>
+	<id>110</id>
+	<name>ฉันเห็นแก่แล้ว!</name>
+</text>
+
+<text>
+	<id>111</id>
+	<name> ขอโทษ ฉันไม่มีอะไรจะแลก ถามคนอื่น.</name>
+</text>
+
+<!-- Additional player phrases -->
+
+<text>
+	<id>125</id>
+	<name>ฉันเป็นมิตร.</name>
+</text>
+
+<text>
+	<id>126</id>
+	<name>Good.</name>
+</text>
+
+<text>
+	<id>127</id>
+	<name>Thanks for repairing the boat for us.</name>
+</text>
+
+<!-- Update 1.2.0 addings -->
+
+<text>
+	<id>86</id>
+	<name>ปืนนี้เลื่อยไม่ได้.</name>
+</text>
+
+<text>
+	<id>87</id>
+	<name>ประตูนี้พังหมดแล้ว.</name>
+</text>
+
+<text>
+	<id>88</id>
+	<name>ที่นี่มีแก๊ส! ฉันต้องการหน้ากากป้องกันแก๊สพิษ!</name>
+</text>
+
+<!-- Update 1.3.0 addings -->
+
+<text>
+	<id>89</id>
+	<name>ฉันต้องการรถที่ขับได้เพื่อการนี้.</name>
+</text>
+
+<text>
+	<id>90</id>
+	<name>ทำจากในรถทำไม่ได้.</name>
+</text>
+
+<text>
+	<id>91</id>
+	<name>คันนี้สภาพดีอยู่แล้ว.</name>
+</text>
+
+<text>
+	<id>92</id>
+	<name>คันนี้น้ำมันเต็มแล้ว.</name>
+</text>
+
+<!-- Quests -->
+
+<text>
+	<id>131</id>
+	<name>ฉันไม่มีอะไรจะพูดกับคุณ.</name>
+</text>
+
+<text>
+	<id>132</id>
+	<name>ฉันต้องการทะเลสาบหรือทะเลเพื่อสิ่งนี้.</name>
+</text>
+
+<text>
+	<id>133</id>
+	<name>ไม่เห็นปลาเลย.</name>
+</text>
+
+<text>
+	<id>135</id>
+	<name>ฉันไม่ได้ป่วย.</name>
+</text>
+
+<text>
+	<id>136</id>
+	<name>ขอขอบคุณอีกครั้งสำหรับความช่วยเหลือของคุณ เรากำลังออกเดินทางเร็ว ๆ นี้.</name>
+</text>
+
+<text>
+	<id>137</id>
+	<name>มีหมายเหตุพร้อมข้อมูลเกี่ยวกับสถานที่บางแห่งบนแผนที่.</name>
+</text>
+
+<text>
+	<id>138</id>
+	<name>ขอบคุณ! รางวัลของคุณถูกทำเครื่องหมายบนแผนที่ของคุณ.</name>
+</text>
+
+<text>
+	<id>140</id>
+	<name>ได้ละ!</name>
+</text>
+
+<text>
+	<id>141</id>
+	<name>บ้าเอ้ย หลุดพ้น.</name>
+</text>
+
+</list>
