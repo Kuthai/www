@@ -4,4 +4,4 @@
 
 Progress saving doesn't work.
 
-# [Play in Browser](https://Kuthai/www/)
+# [Play in Browser](https://kuthai.github.io/www/)
